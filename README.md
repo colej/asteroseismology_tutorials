@@ -18,3 +18,4 @@ You can find the pythia package here: https://github.com/colej/pythia
   - tutorial_01: Iterative pre-whitening of ground-based data
   - tutorial_02: How to choose your stopping criteria
   - tutorial_03: How to build a period-spacing pattern for a Kepler target
+  - tutorial_04: How to remove the binary signature and search for pulsations
